@@ -20,5 +20,9 @@ ABSTRAÇÃO, ENCAPSULAMENTO, HERANÇA E POLIMORFISMO, através de um projeto Jav
 ## Considerações
 A fim de facilitar o entendimento comentei vários códigos para poder revisitá-los e auxiliar na trilha de aprendizado.
 
+### Agradecimento: 
+Camila Cavalcante - Software Developer - https://www.linkedin.com/in/cami-la/
+
+____________________________________________________________________________________________________________________________________
 Disponibilizado com ♥ por https://www.linkedin.co
 m/in/rosana-gouveiaa2340862/
